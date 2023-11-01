@@ -1,4 +1,4 @@
-namespace JwtWebApiTutorial
+namespace JwtWebApi.Models
 {
     public class WeatherForecast
     {
