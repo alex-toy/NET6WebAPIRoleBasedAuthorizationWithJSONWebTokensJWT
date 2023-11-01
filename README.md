@@ -1,7 +1,7 @@
 # NET 6 Web API Role-Based Authorization with JSON Web Tokens (JWT)
 
 
-## Auction MicroService
+## Set the App
 
 ### Nuget Packages
 ```
@@ -11,4 +11,12 @@ Swashbuckle.AspNetCore
 Swashbuckle.AspNetCore.Filters
 System.IdentityModel.Tokens.Jwt
 ```
-<img src="/pictures/postgres.png" title="postgres"  width="900">
+
+
+## Run the App
+
+- run without authentication
+<img src="/pictures/app.png" title="run app"  width="900">
+
+- register
+<img src="/pictures/app1.png" title="run app"  width="900">
