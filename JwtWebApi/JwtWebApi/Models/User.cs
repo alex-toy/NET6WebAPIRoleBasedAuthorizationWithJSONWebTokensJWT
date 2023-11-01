@@ -40,7 +40,7 @@ namespace JwtWebApi.Models
             return new List<Claim>
             {
                 new Claim(ClaimTypes.Name, Username),
-                new Claim(ClaimTypes.Role, "Admin")
+                new Claim(ClaimTypes.Role, "user")
             };
         }
 

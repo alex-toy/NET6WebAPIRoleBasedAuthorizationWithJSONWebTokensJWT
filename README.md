@@ -15,8 +15,17 @@ System.IdentityModel.Tokens.Jwt
 
 ## Run the App
 
-- run without authentication
+- get weather forecast without authentication
 <img src="/pictures/app.png" title="run app"  width="900">
 
 - register
 <img src="/pictures/app1.png" title="run app"  width="900">
+
+- login
+<img src="/pictures/app2.png" title="run app"  width="900">
+
+- get weather forecast with authentication and role admin
+<img src="/pictures/app3.png" title="run app"  width="900">
+
+- get weather forecast with authentication and role not admin
+<img src="/pictures/app4.png" title="run app"  width="900">
